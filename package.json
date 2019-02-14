@@ -6,9 +6,38 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": {
+    "name": "Nisanthan Nanthakumar",
+    "email": "nisanthan.nanthakumar@gmail.com",
+    "url": "https://nanthakumar.ca"
+  },
   "license": "ISC",
   "dependencies": {
     "aws-sdk": "^2.402.0"
+  },
+  "keywords": [
+    "dynamodb",
+    "dynamo",
+    "mongoose",
+    "aws",
+    "amazon",
+    "document",
+    "model",
+    "database",
+    "data",
+    "datastore",
+    "query",
+    "scan",
+    "nosql",
+    "db",
+    "nosql",
+    "store",
+    "document store",
+    "table",
+    "json"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/NisanthanNanthakumar/amazo.git"
   }
 }
